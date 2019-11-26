@@ -40,7 +40,7 @@ and hard to get access to. It is a common issue that data needs to be synced bet
 and instances and that communication between classes and instances can be troublesome. There
 now exist many ways to solve this problem, but they often remain messy and convoluted.
 
-Object Oriented Programming also introduced the concept od public, protected and private
+Object Oriented Programming also introduced the concept of public, protected and private
 variables and functions. This is an excellent tool for defining how the developer wants
 to scope the use of functions, variables and methods.
 

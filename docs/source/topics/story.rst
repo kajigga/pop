@@ -10,7 +10,7 @@ suited our needs so well that I became increasingly enamored with plugins.
 
 Salt was originally developed with and for plugins, but only in isolated areas. But
 over time I added more and more plugin subsystems. As things moved forward I discovered
-that major components of Salt we being defined entirely within plugin systems. It
+that major components of Salt were being defined entirely within plugin systems. It
 also became a major desire to make more systems within Salt pluggable. We found that
 this made Salt more approachable by developers and amazingly extensible. But we also
 found a number of shortcomings in the design. When we have plugin systems we wanted
